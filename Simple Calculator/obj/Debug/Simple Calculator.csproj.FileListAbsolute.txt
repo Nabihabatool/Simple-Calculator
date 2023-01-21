@@ -1,0 +1,11 @@
+C:\Users\toshiba\source\repos\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\toshiba\source\repos\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\toshiba\source\repos\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\toshiba\source\repos\Simple Calculator\obj\Debug\Simple Calculator.pdb
